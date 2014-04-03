@@ -1,1 +1,1 @@
-puts "hello, stupid tutorial, what a wase fo time!!!"
+puts "hello, #{ARGV.first}!"
